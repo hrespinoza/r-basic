@@ -1,0 +1,13 @@
+2*(3+5/2)
+2*((3+5)/2)
+725%/%7
+725%%7
+pi
+2*pi
+5/0
+sqrt(25)
+exp(1)
+log(pi)
+abs(-pi)
+factorial(7)
+factorial(4)
